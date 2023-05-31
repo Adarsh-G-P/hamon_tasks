@@ -1,0 +1,3 @@
+Here is a sample program.
+Greetings.! 
+You are learning Python
